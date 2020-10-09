@@ -1,0 +1,82 @@
+body {
+  font-size: 16px;
+  color: #fff;
+  font-family: 'Oxygen', sans-serif;
+  background-color: #cccc00;
+}
+h1{font-family: 'Fredoka One', cursive;
+  font-size: 2.2em;
+  color: black;
+  font-weight: bolder;
+}
+h2{
+  font-weight: bolder;
+}
+#header-nav{
+  background-color: grey;
+  margin-bottom: 30px;
+  border-radius: 0px;
+  border: 0;
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 2px solid black;
+}
+#header-nav{
+  border: 1px solid black;
+}
+#header{
+  margin-left: 20px;
+}
+a:hover{
+  text-decoration: none;
+}
+.navbar-brand{
+  margin-bottom: -25px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  height: 120px;
+}
+.navbar-toggle{
+ margin-top: 30px;
+}
+
+.navbar-default .navbar-nav>li>a {
+    color: black;
+    font-weight: bolder;
+    border: 1px solid black;
+}
+#collapsable-nav{
+  margin-left: -40px;
+    border-top-color: black;
+}
+#nav-list{
+  margin:0 -15px 0 -10px;
+ 
+background-color: #e0e233;
+}
+
+#heading{
+  font-size: 2em;
+  color: #900B0B;
+}
+#no1{ 
+  margin-top: 15px;
+  background-color: #af4b4b;
+  color: black;
+  border: 1px solid black;
+  border-radius: 20px;
+}
+p{
+  font-weight: bold;
+  margin:0 15px;
+}
+h2{
+  border: 1px solid black;
+ margin-top: 0px;
+ border-radius: 20px 20px 0 0;
+ background-color: #88b04b;
+ color: white;
+}
+
+  
